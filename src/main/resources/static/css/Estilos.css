@@ -1,2 +1,53 @@
+#contenido{
+    position: absolute;
+    top: 12%;
+    left: 20%;
+    height: 82%;
+    width: 80%;
+    background-color: #ff6600;
+    color: black;
+    overflow: auto;
+}
 
+.center{
+    text-align: center;
+    font-size: 50px;
+}
+
+#piePagina{
+    position: absolute;
+    bottom: 0%;
+    left: 0%;
+    height: 7%;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.lineaDireccion{
+    display: inline;
+}
+
+.descripcion{
+    font-size: 20px
+}
+
+#barraLateral{
+    position: absolute;
+    top: 12%;
+    left: 0;
+    height: 82%;
+    width: 20%;
+    background-color: black;
+    color: white;
+}
+.news{
+    font-size: 20px;
+}
+
+.logoBorde{
+    width: 210px;
+    height: 210px;
+}
 
